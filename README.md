@@ -1,4 +1,4 @@
-### YouTube-Data-Analysis
+### YouTube Data Analytics
 
 #### Objectives
 
